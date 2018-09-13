@@ -1,0 +1,2 @@
+# kmagnoPractice
+Practice projects 
