@@ -1,0 +1,9 @@
+!path C:\Users\kmag0\.m2\repository\org\fitnesse\fitnesse\20180127\fitnesse-20180127.jar
+!path C:\Users\kmag0\.m2\repository\org\fitnesse\fitlibrary\20080812\fitlibrary-20080812.jar
+!path target/classes
+
+
+!|com.example.CalculatorFixture|
+|n1|n2|sum?|product?|
+|1|2|3|2|
+|1000|0|1000|0|
